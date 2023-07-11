@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/5552.a47172fe.chunk.js","mappings":"iJAMA,UAJA,WACE,OAAO,mCACR,C","sources":["view/Favoris/Favoris.tsx"],"sourcesContent":["import React from \"react\";\n\nfunction Favoris() {\n  return <h1>Favoris</h1>;\n}\n\nexport default Favoris;\n"],"names":[],"sourceRoot":""}
