@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/5552.65f0ca39.chunk.js","mappings":"iJAMA,UAJA,WACE,OAAO,eAAIA,UAAU,KAAd,oBACR,C","sources":["view/Favoris/Favoris.tsx"],"sourcesContent":["import React from \"react\";\n\nfunction Favoris() {\n  return <h1 className=\"h1\">Favoris</h1>;\n}\n\nexport default Favoris;\n"],"names":["className"],"sourceRoot":""}
